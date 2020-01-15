@@ -2,6 +2,6 @@
 
 ## Note: This is in development stage.
 ```shell
-wget -N https://raw.githubusercontent.com/maskoid/vestacp-wordpress-installer/master/installall.sh
-bash install.sh
+wget -N https://raw.githubusercontent.com/azadshaikh/parseserverconfig/master/installall.sh
+bash installall.sh
 ```
